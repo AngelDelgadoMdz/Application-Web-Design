@@ -22,6 +22,38 @@ Add another section where you will list the commands used in git to do the follo
 * Create, browse, and delete branches.
 * Roll back a repository to a specific commit.
 
+***
+
+### Lo que aprendí de Markdown
+
+# Header 1
+
+## Header 2
+
+## Header 3
+
+***
+Separador
+
+* Esto es
+* Una lista
+* Muy buena
+
+_Así es cursiva_
+
+__Así se ponen las negritas__
+
+**_Así es cursiva en negritas_**
+
+[Así hago un link.](www.google.com)
+
+Así es una imagen
+![Logo Tecmilenio](https://smrt.sfo2.cdn.digitaloceanspaces.com/brandedpages/tecmilenio/tecmileniologo.png)
+
+> "Así se ponen las citas en Markdawn"
+
+***
+
 ### Comandos aprendidos:
 
 * __git init:__ Crear el repositorio local
